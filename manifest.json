@@ -1,0 +1,14 @@
+{
+  "id": "archive-org",
+  "name": "Internet Archive",
+  "version": "1.0.0",
+  "manifestURI": "https://raw.githubusercontent.com/Lampe332/seanime-archive-org/main/manifest.json",
+  "language": "typescript",
+  "type": "anime-torrent-provider",
+  "description": "Anime torrents from archive.org. archive.org seeds every item over HTTP (web seed), so downloads work without peers. Smart search filters out AMVs, reviews, YouTube mirrors and other non-episode uploads.",
+  "author": "Lampe332",
+  "icon": "https://raw.githubusercontent.com/Lampe332/seanime-archive-org/main/icon.png",
+  "website": "https://github.com/Lampe332/seanime-archive-org",
+  "lang": "multi",
+  "payloadURI": "https://raw.githubusercontent.com/Lampe332/seanime-archive-org/main/provider.ts"
+}
